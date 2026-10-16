@@ -57,8 +57,8 @@
 | [Bank Management System](https://github.com/teja0093/Bank-Management-System-Java-JDBC) | Java, JDBC, MySQL |
 
 ## 📫 Connect with me
-- 💼 LinkedIn: add your link here
-- 📧 Email: add your email here
+- 💼 LinkedIn: https://www.linkedin.com/in/teja-tj-b0790a289
+- 📧 Email: tejeswararaobonu@gmail.com
 
 ---
 <p align="center">⭐ Thanks for visiting my profile!</p>
